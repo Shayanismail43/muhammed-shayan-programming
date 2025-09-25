@@ -1,0 +1,15 @@
+# include < iostream >
+using namespace std ;
+int main () 
+{
+int a ,b , c ;
+cout<<" Enter three numbers : ";
+cin>>a>>b>>c;
+7 if(a>b && a>c)
+8 cout<<" Largest is : "<<a;
+9 else if(b > c)
+10 cout<<" Largest is : "<<b;
+11 else
+12 cout<<" Largest is : "<<c;
+13 return 0; 
+}
