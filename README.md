@@ -9,17 +9,8 @@
 ### ⚡ What I'm Working On
 - C++ mini projects (algorithm-based and console apps)  
 - Learning Python  
-- Building small accessibility apps using MIT App Inventor
 
 ---
 
 ### 🧩 Languages and Tools
 C++ | Python | HTML | MySQL | MIT App Inventor
-
----
-
-### 📘 About Me
-I’m interested in:
-- Data Science & AI  
-- App Development  
-- Solving meaningful real-world problems using technology
